@@ -2,3 +2,7 @@ Toppvegen 3
 Langelim 44
 Storgate 13
 
+
+Tangen 6
+Tangen 7
+Tangen 8
