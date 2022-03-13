@@ -2,3 +2,5 @@ Ekstra stor garasje
 - Grasje-del
 - Y-rom
 - Loft
+
+- Verksted
