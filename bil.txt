@@ -4,3 +4,6 @@ Toyota Avensis 1,6
 BMW 520i
 Ford Granada 1.8 Ghia
 BMW K1200GT (MC)
+
+Yosumite Cruiser
+
